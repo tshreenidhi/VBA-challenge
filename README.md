@@ -1,6 +1,7 @@
 # VBA-challenge
 VB Script Homework
 Student Name: Thotadamoole Shreenidhi
+Code Source: Snips taken from class activities and group study. Not attaching the xlsm file as file limit is exceeding
 Submission has the following files.
 •	Readme
 •	Sub Stock_data.vbs
